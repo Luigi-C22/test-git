@@ -1,4 +1,5 @@
 # Ricette inutili
 
-* spaghetti aglio, Olio, Peperoncino
+* spaghetti aglio, olio, peperoncino
+* Pennette alla carbonara
 * Risotto ai funghi
