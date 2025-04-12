@@ -8,4 +8,4 @@ Questo archivio contiene tutte le ricette preferite di qualcuno!
 * Pennette alla carbonara
 * Risotto ai funghi
 * Minestrone di verdure
-
+* Salmone al cartoccio
